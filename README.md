@@ -1,2 +1,2 @@
 # path-planning
-RRT* + Bias sampling + proxy collision detector
+RRT* + Probability map-based Bias sampling + Probability map-based collision detector
